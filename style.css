@@ -181,6 +181,11 @@ background-color: rgb(226, 223, 223);
 }
 
 .photo{
-    width: 10%;
-    height: 10%;
+    background: url();
+    display: inline-block;
+    top: 25%;
+    width: 120px;
+    height: 120px;
+    border-radius: 25%;
+    background-size: cover;
 }
