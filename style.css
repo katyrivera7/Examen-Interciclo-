@@ -180,8 +180,16 @@ background-color: rgb(226, 223, 223);
     padding: 1rem;
 }
 
+.galerias__cont{
+	width: 7rem;
+    height: 7rem;
+    margin: 1rem;
+    border-radius: 1rem;
+    background-color: white;
+    display: inline-block;}
+
 .photo{
-    background: url();
+    background: url("EVALUACION.jpg");
     display: inline-block;
     top: 25%;
     width: 120px;
